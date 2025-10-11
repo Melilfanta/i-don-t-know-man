@@ -439,9 +439,9 @@
             "#fb4934"
         ],
         "TEXT_LINK": [
-            "#2780E6",
-            "#2780E6",
-            "#2780E6"
+            "#963203",
+            "#963203",
+            "#963203"
         ],
         "TEXT_LINK_LOW_SATURATION": [
             "#dcddde",
@@ -454,9 +454,9 @@
             "#2678d6"
         ],
         "TEXT_NORMAL": [
-            "#dcddde",
-            "#dcddde",
-            "#dcddde"
+            "#87746b",
+            "#87746b",
+            "#87746b"
         ],
         "TEXT_POSITIVE": [
             "#689d6a",
